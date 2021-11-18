@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    height: 100vh;
+}
+
+
+.headeris{
+    height: 15%;
+}
+
+.sidebaras{
+    height: 40%;
+}
+
+.asaidai{
+    height: 35%;
+}
